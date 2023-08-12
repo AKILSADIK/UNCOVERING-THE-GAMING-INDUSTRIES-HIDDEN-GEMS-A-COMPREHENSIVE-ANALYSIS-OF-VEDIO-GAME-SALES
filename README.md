@@ -20,3 +20,21 @@ Top 15 Games Categoriezed by Region, Genre, Platform, Top 15 Publisher.
 Global Sales Distribution for Top 15 Platform between Genre.
 
 Number of Games and Global Sales of Top 15 Publisher across Genre.
+
+# Video Demonstration Link:
+https://drive.google.com/file/d/1KHUgd86jx-ceRDw1x39NdA0lYP7Ay08W/view
+
+# Tableau Stories:
+https://public.tableau.com/app/profile/akil.sadik/viz/VideoGameSales_16917717381130/VedioGamesales?publish=yes
+
+# Tableau Dashboard 1:
+https://public.tableau.com/app/profile/akil.sadik/viz/VideoGameSales_16917717381130/GenreAnalysis?publish=yes
+
+# Tableau Dashboard 2:
+https://public.tableau.com/app/profile/akil.sadik/viz/VideoGameSales_16917717381130/Top15Games?publish=yes
+
+# Tableau Dashboard 2:
+https://public.tableau.com/app/profile/akil.sadik/viz/VideoGameSales_16917717381130/TotalSales?publish=yes
+
+# Web integration link:
+file:///C:/Users/AKIL/OneDrive%20-%20SONA%20COLLEGE%20OF%20TECHNOLOGY/Documents/ML%20Projects/IBM%20smart%20internz/Vedio%20Games%20Sales%20Page.html
