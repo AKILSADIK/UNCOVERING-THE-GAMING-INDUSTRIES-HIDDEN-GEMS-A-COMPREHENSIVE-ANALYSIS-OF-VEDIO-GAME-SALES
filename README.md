@@ -22,7 +22,7 @@ Global Sales Distribution for Top 15 Platform between Genre.
 Number of Games and Global Sales of Top 15 Publisher across Genre.
 
 # Video Demonstration Link:
-https://drive.google.com/file/d/1KHUgd86jx-ceRDw1x39NdA0lYP7Ay08W/view
+https://drive.google.com/drive/folders/1defS37x5Ot3J87ypIX6yE2iLClhd3TSm?usp=sharing
 
 # Tableau Stories:
 https://public.tableau.com/app/profile/akil.sadik/viz/VideoGameSales_16917717381130/VedioGamesales?publish=yes
